@@ -20,8 +20,6 @@ public class RatUnit : BaseUnit
         // If it hits something...
         if (hit.collider != null)
         {
-            Debug.Log(hit.collider.name);
-
             var unit = hit.collider.GetComponent<BaseUnit>();
 
             if (IsEnemy != unit.IsEnemy)
