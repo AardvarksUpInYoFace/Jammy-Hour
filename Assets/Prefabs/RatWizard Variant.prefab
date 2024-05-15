@@ -7,9 +7,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 368995295820388818, guid: e342c5871b6ef4866b29478cab67fcfc, type: 3}
+      propertyPath: Cost
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 368995295820388818, guid: e342c5871b6ef4866b29478cab67fcfc, type: 3}
+      propertyPath: Damage
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 368995295820388818, guid: e342c5871b6ef4866b29478cab67fcfc, type: 3}
+      propertyPath: Health
+      value: 5
+      objectReference: {fileID: 0}
     - target: {fileID: 368995295820388819, guid: e342c5871b6ef4866b29478cab67fcfc, type: 3}
       propertyPath: m_Name
-      value: RatWizard
+      value: RatWizard Variant
       objectReference: {fileID: 0}
     - target: {fileID: 368995295820388820, guid: e342c5871b6ef4866b29478cab67fcfc, type: 3}
       propertyPath: m_RootOrder

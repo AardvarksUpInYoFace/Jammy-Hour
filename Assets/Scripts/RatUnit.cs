@@ -2,6 +2,7 @@ using UnityEngine;
 
 public class RatUnit : BaseUnit
 {
+    public int Cost = 2;
     public float Speed = 2;
     public int Damage= 5;
 
