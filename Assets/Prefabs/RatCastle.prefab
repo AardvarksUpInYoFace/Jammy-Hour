@@ -99,7 +99,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   IsEnemy: 0
-  Health: 10
+  Health: 25
+  maxHealth: 0
 --- !u!61 &1563459423296100494
 BoxCollider2D:
   m_ObjectHideFlags: 0
